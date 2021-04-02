@@ -1,0 +1,11 @@
+---
+channel: edge
+addons:
+  plex-apsw:
+    repository: barisozdag/addon-plex
+    target: plex
+    image: ghcr.io/barisozdag/plex-apsw/{arch}
+  kitana:
+    repository: barisozdag/addon-kitana
+    target: kitana
+    image: ghcr.io/barisozdag/kitana/{arch}
