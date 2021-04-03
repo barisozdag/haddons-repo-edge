@@ -36,6 +36,19 @@ https://github.com/barisozdag/haddons-repo-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Kitana][addon-kitana]
+
+![Latest Version][kitana-version-shield]
+![Supports armhf Architecture][kitana-armhf-shield]
+![Supports armv7 Architecture][kitana-armv7-shield]
+![Supports aarch64 Architecture][kitana-aarch64-shield]
+![Supports amd64 Architecture][kitana-amd64-shield]
+![Supports i386 Architecture][kitana-i386-shield]
+
+A responsive Plex plugin web frontend
+
+[:books: Kitana add-on documentation][addon-doc-kitana]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -54,6 +67,7 @@ You could open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Kitana][kitana-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -90,6 +104,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/b2326d8
+[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/b2326d8/README.md
+[kitana-issue]: https://github.com/barisozdag/addon-kitana/issues
+[kitana-version-shield]: https://img.shields.io/badge/version-b2326d8-blue.svg
+[kitana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[kitana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[kitana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[kitana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[kitana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/barisozdag/haddons-repo-edge/issues
 [license-shield]: https://img.shields.io/github/license/barisozdag/haddons-repo-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg

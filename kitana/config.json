@@ -1,0 +1,23 @@
+{
+  "name": "Kitana",
+  "version": "b2326d8",
+  "slug": "kitana",
+  "description": "A responsive Plex plugin web frontend",
+  "url": "https://github.com/barisozdag/addon-kitana",
+  "arch": [
+    "armv7",
+    "aarch64",
+    "amd64"
+  ],
+  "map": [
+    "ssl"
+  ],
+  "ports": {
+    "31337/tcp": 31337
+  },
+  "ports_description": {
+    "31337/tcp": "Web interface"
+  },
+  "webui": "http://[HOST]:[PORT:31337]",
+  "image": "ghcr.io/barisozdag/kitana/{arch}"
+}
