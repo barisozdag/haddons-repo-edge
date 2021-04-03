@@ -1,4 +1,8 @@
 # Changelog since v0.1.0
+- Merge pull request #2 from barisozdag/plex-version-1.22.1.4275-48e10484b
+
+⬆ Upgrades Plex Media Server to 1.22.1.4275-48e10484b 
+- ⬆ Upgrades Plex Media Server to 1.22.1.4275-48e10484b 
 - Merge pull request #1 from barisozdag/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
 
 Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 
