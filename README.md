@@ -49,6 +49,19 @@ A responsive Plex plugin web frontend
 
 [:books: Kitana add-on documentation][addon-doc-kitana]
 
+### &#10003; [Plex Media Server][addon-plex-apsw]
+
+![Latest Version][plex-apsw-version-shield]
+![Supports armhf Architecture][plex-apsw-armhf-shield]
+![Supports armv7 Architecture][plex-apsw-armv7-shield]
+![Supports aarch64 Architecture][plex-apsw-aarch64-shield]
+![Supports amd64 Architecture][plex-apsw-amd64-shield]
+![Supports i386 Architecture][plex-apsw-i386-shield]
+
+Recorded media, live TV, online news, and podcasts ready to stream.
+
+[:books: Plex Media Server add-on documentation][addon-doc-plex-apsw]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -68,6 +81,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Kitana][kitana-issue]
+- [Open an issue for the add-on: Plex Media Server][plex-apsw-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -113,6 +127,15 @@ SOFTWARE.
 [kitana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [kitana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [kitana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-plex-apsw]: https://github.com/barisozdag/addon-plex/tree/0da3c82
+[addon-doc-plex-apsw]: https://github.com/barisozdag/addon-plex/blob/0da3c82/README.md
+[plex-apsw-issue]: https://github.com/barisozdag/addon-plex/issues
+[plex-apsw-version-shield]: https://img.shields.io/badge/version-0da3c82-blue.svg
+[plex-apsw-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[plex-apsw-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[plex-apsw-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[plex-apsw-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[plex-apsw-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/barisozdag/haddons-repo-edge/issues
 [license-shield]: https://img.shields.io/github/license/barisozdag/haddons-repo-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
