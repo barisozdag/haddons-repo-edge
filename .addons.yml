@@ -9,3 +9,7 @@ addons:
     repository: barisozdag/addon-kitana
     target: kitana
     image: ghcr.io/barisozdag/kitana/{arch}
+  resiliosync:
+    repository: barisozdag/addon-resiliosync
+    target: resiliosync
+    image: ghcr.io/barisozdag/resiliosync/{arch}
