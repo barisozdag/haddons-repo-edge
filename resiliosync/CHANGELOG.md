@@ -1,1 +1,1 @@
-- Initial commit
+- 🚑 Fix logo & icon
