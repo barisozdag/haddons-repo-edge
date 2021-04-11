@@ -62,6 +62,19 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 
 [:books: Plex Media Server add-on documentation][addon-doc-plex-apsw]
 
+### &#10003; [Resilio Sync][addon-resiliosync]
+
+![Latest Version][resiliosync-version-shield]
+![Supports armhf Architecture][resiliosync-armhf-shield]
+![Supports armv7 Architecture][resiliosync-armv7-shield]
+![Supports aarch64 Architecture][resiliosync-aarch64-shield]
+![Supports amd64 Architecture][resiliosync-amd64-shield]
+![Supports i386 Architecture][resiliosync-i386-shield]
+
+Sync All Your Data Across All Your Devices
+
+[:books: Resilio Sync add-on documentation][addon-doc-resiliosync]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -82,6 +95,7 @@ on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Kitana][kitana-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-apsw-issue]
+- [Open an issue for the add-on: Resilio Sync][resiliosync-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -136,6 +150,15 @@ SOFTWARE.
 [plex-apsw-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-apsw-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-apsw-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-resiliosync]: https://github.com/barisozdag/addon-resiliosync/tree/9f502d1
+[addon-doc-resiliosync]: https://github.com/barisozdag/addon-resiliosync/blob/9f502d1/README.md
+[resiliosync-issue]: https://github.com/barisozdag/addon-resiliosync/issues
+[resiliosync-version-shield]: https://img.shields.io/badge/version-9f502d1-blue.svg
+[resiliosync-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[resiliosync-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[resiliosync-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[resiliosync-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[resiliosync-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/barisozdag/haddons-repo-edge/issues
 [license-shield]: https://img.shields.io/github/license/barisozdag/haddons-repo-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
