@@ -1,4 +1,8 @@
 # Changelog since v0.1.1
+- Merge pull request #7 from barisozdag/plex-1.22.2.4282-a97b03fad
+
+⬆ Upgrades Plex Media Server to 1.22.2.4282-a97b03fad 
+- ⬆ Upgrades Plex Media Server to 1.22.2.4282-a97b03fad 
 - Merge pull request #6 from barisozdag/dependabot/github_actions/actions/cache-v2.1.5
 
 ⬆️ Bump actions/cache from v2.1.4 to v2.1.5 
