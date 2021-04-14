@@ -31,6 +31,6 @@ If you are more interested in stable releases of my add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-668cc29-blue.svg
-[release]: https://github.com/barisozdag/addon-resiliosync/tree/668cc29
+[release-shield]: https://img.shields.io/badge/version-3c160c4-blue.svg
+[release]: https://github.com/barisozdag/addon-resiliosync/tree/3c160c4
 [resilio]: https://www.resilio.com/individuals/
