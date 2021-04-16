@@ -132,10 +132,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/e5b3acd
-[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/e5b3acd/README.md
+[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/3574cf9
+[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/3574cf9/README.md
 [kitana-issue]: https://github.com/barisozdag/addon-kitana/issues
-[kitana-version-shield]: https://img.shields.io/badge/version-e5b3acd-blue.svg
+[kitana-version-shield]: https://img.shields.io/badge/version-3574cf9-blue.svg
 [kitana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [kitana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [kitana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
