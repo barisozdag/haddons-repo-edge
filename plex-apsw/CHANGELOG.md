@@ -1,4 +1,12 @@
 # Changelog since v0.1.2
+- Merge pull request #11 from barisozdag/plex-1.22.3.4392
+
+⬆️ Upgrades Plex Media Server to 1.22.3.4392 
+- Merge pull request #12 from barisozdag/ci-20210423-1
+
+Fix updated repository structure & CI workflow 
+- Fix updated repository structure & CI workflow 
+- ⬆️ Upgrades Plex Media Server to 1.22.3.4392 
 - Merge pull request #10 from barisozdag/ci-20210423
 
 Apply updated repository structure & CI workflow 
