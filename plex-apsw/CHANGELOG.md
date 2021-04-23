@@ -1,4 +1,12 @@
 # Changelog since v0.1.2
+- Merge pull request #10 from barisozdag/ci-20210423
+
+Apply updated repository structure & CI workflow 
+- Merge pull request #9 from barisozdag/base-update-6.2.0
+
+⬆️ Upgrades add-on base image to v6.2.0 
+- Apply updated repository structure & CI workflow 
+- ⬆️ Upgrades add-on base image to v6.2.0 
 - Merge pull request #8 from barisozdag/dependabot/github_actions/brpaz/hadolint-action-v1.4.0
 
 ⬆️ Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 
