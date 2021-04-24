@@ -1,4 +1,8 @@
 # Changelog since v0.1.0
+- Merge pull request #8 from barisozdag:docs-20210424-001
+
+📚 Update add-on documentation 
+- 📚 Update add-on documentation 
 - Merge pull request #7 from barisozdag:ci-20210424-001
 
 Apply updated repository structure & CI workflow 
