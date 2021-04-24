@@ -1,4 +1,8 @@
 # Changelog since v0.1.0
+- Merge pull request #3 from barisozdag:ci-20210424-001
+
+Apply updated repository structure & CI workflow 
+- Apply updated repository structure & CI workflow 
 - Merge pull request #2 from barisozdag/dependabot/github_actions/brpaz/hadolint-action-v1.4.0
 
 Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 
