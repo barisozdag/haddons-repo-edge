@@ -1,4 +1,8 @@
 # Changelog since v0.1.0
+- Merge pull request #4 from barisozdag:base-6.2.0
+
+⬆️ Upgrades add-on base image to v6.2.0 
+- ⬆️ Upgrades add-on base image to v6.2.0 
 - Merge pull request #3 from barisozdag:ci-20210424-001
 
 Apply updated repository structure & CI workflow 
