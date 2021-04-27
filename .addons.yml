@@ -13,3 +13,7 @@ addons:
     repository: barisozdag/addon-resiliosync
     target: resiliosync
     image: ghcr.io/barisozdag/resiliosync/{arch}
+  deluge:
+    repository: barisozdag/addon-deluge
+    target: deluge
+    image: ghcr.io/barisozdag/deluge/{arch}
