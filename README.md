@@ -36,6 +36,19 @@ https://github.com/barisozdag/haddons-repo-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Deluge][addon-deluge]
+
+![Latest Version][deluge-version-shield]
+![Supports armhf Architecture][deluge-armhf-shield]
+![Supports armv7 Architecture][deluge-armv7-shield]
+![Supports aarch64 Architecture][deluge-aarch64-shield]
+![Supports amd64 Architecture][deluge-amd64-shield]
+![Supports i386 Architecture][deluge-i386-shield]
+
+Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+
+[:books: Deluge add-on documentation][addon-doc-deluge]
+
 ### &#10003; [Kitana][addon-kitana]
 
 ![Latest Version][kitana-version-shield]
@@ -93,6 +106,7 @@ You could open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Deluge][deluge-issue]
 - [Open an issue for the add-on: Kitana][kitana-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-apsw-issue]
 - [Open an issue for the add-on: Resilio Sync][resiliosync-issue]
@@ -132,6 +146,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-deluge]: https://github.com/barisozdag/addon-deluge/tree/v0.1.0
+[addon-doc-deluge]: https://github.com/barisozdag/addon-deluge/blob/v0.1.0/README.md
+[deluge-issue]: https://github.com/barisozdag/addon-deluge/issues
+[deluge-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[deluge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[deluge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[deluge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[deluge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[deluge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/08ca08f
 [addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/08ca08f/README.md
 [kitana-issue]: https://github.com/barisozdag/addon-kitana/issues
