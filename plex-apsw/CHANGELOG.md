@@ -1,4 +1,14 @@
 # Changelog since v0.2.0
+- Merge pull request #16 from barisozdag/dependabot/github_actions/docker/setup-buildx-action-v1.3.0
+
+Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 
+- Bump docker/setup-buildx-action from v1.2.0 to v1.3.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.2.0 to v1.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.2.0...0d135e0c2fc0dba0729c1a47ecfcf5a3c7f8579e)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #15 from barisozdag/dependabot/github_actions/docker/login-action-v1.9.0
 
 Bump docker/login-action from v1.8.0 to v1.9.0 
