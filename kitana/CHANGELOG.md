@@ -1,4 +1,14 @@
 # Changelog since v0.1.1
+- Merge pull request #14 from barisozdag/dependabot/github_actions/frenck/action-addon-linter-2.1
+
+Bump frenck/action-addon-linter from 2 to 2.1 
+- Bump frenck/action-addon-linter from 2 to 2.1
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #13 from barisozdag/dependabot/github_actions/brpaz/hadolint-action-v1.5.0 
 - Bump brpaz/hadolint-action from v1.4.0 to v1.5.0
 
