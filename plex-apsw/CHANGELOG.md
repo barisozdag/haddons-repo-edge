@@ -1,4 +1,8 @@
 # Changelog since v0.2.0
+- Merge pull request #19 from barisozdag:plex-1.22.3.4523
+
+⬆️ Upgrades Plex Media Server to 1.22.3.4523 
+- ⬆️ Upgrades Plex Media Server to 1.22.3.4523 
 - Merge pull request #18 from barisozdag/dependabot/github_actions/frenck/action-addon-linter-2.1
 
 Bump frenck/action-addon-linter from 2 to 2.1 
