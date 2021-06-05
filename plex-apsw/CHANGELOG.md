@@ -1,4 +1,7 @@
 # Changelog since v0.2.1
+- Merge pull request #27 from barisozdag/dependabot/github_actions/frenck/action-addon-information-1.2.2
+
+Bump frenck/action-addon-information from 1.1 to 1.2.2 
 - Merge pull request #25 from barisozdag/dependabot/github_actions/actions/cache-2.1.6
 
 Bump actions/cache from 2.1.5 to 2.1.6 
@@ -11,6 +14,13 @@ Bump docker/setup-qemu-action from 1.1.0 to 1.2.0
 - Merge pull request #22 from barisozdag/dependabot/github_actions/micnncim/action-label-syncer-1.3.0
 
 Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 
+- Bump frenck/action-addon-information from 1.1 to 1.2.2
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.2.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.1...v1.2.2)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Bump actions/cache from 2.1.5 to 2.1.6
 
 Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
