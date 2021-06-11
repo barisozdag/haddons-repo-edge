@@ -1,4 +1,8 @@
 # Changelog since v0.2.1
+- Merge pull request #28 from barisozdag:brs-2021-001
+
+Add note about DLNA support to docs, cleanup port 1900 
+- Add note about DLNA support to docs, cleanup port 1900 
 - Merge pull request #27 from barisozdag/dependabot/github_actions/frenck/action-addon-information-1.2.2
 
 Bump frenck/action-addon-information from 1.1 to 1.2.2 
