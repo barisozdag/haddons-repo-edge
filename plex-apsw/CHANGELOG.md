@@ -1,7 +1,18 @@
-## What’s changed
+# Changelog since v0.3.1
+- Merge pull request #34 from barisozdag/dependabot/github_actions/docker/build-push-action-2.6.1
 
-## ⬆️ Dependency updates
+⬆️ Bump docker/build-push-action from 2.5.0 to 2.6.1 
+- ⬆ Bump docker/build-push-action from 2.5.0 to 2.6.1
 
-- Bump docker/login-action from 1.9.0 to 1.10.0 @dependabot (#31)
-- Bump docker/setup-buildx-action from 1.3.0 to 1.4.1 @dependabot (#32)
-- ⬆ Upgrades Plex Media Server to 1.23.3.4707 @barisozdag (#33)
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.5.0 to 2.6.1.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.5.0...v2.6.1)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
