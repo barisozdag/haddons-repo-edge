@@ -34,5 +34,5 @@ If you are more interested in stable releases of my add-ons:
 [kitana]: https://github.com/pannal/Kitana
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-cf65855-blue.svg
-[release]: https://github.com/barisozdag/addon-kitana/tree/cf65855
+[release-shield]: https://img.shields.io/badge/version-1a619b2-blue.svg
+[release]: https://github.com/barisozdag/addon-kitana/tree/1a619b2
