@@ -1,4 +1,8 @@
 # Changelog since v0.3.1
+- Merge pull request #40 from barisozdag:brs-2021-005
+
+⬆️ Upgrades add-on base image to v6.2.1 
+- ⬆️ Upgrades add-on base image to v6.2.1 
 - Merge pull request #39 from barisozdag/dependabot/github_actions/actions/stale-4
 
 ⬆️ Bump actions/stale from 3.0.19 to 4 
