@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- ⬆️ Upgrades add-on base image to v4.2.2 (#22) 
 - Merge pull request #20 from barisozdag/dependabot/github_actions/actions/stale-4
 
 Bump actions/stale from 3.0.19 to 4 
