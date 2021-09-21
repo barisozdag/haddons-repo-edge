@@ -1,4 +1,5 @@
 # Changelog since v0.3.3
+- 🚀 Add-on CI improvements (#48) 
 - Bump creyD/prettier_action from 3.3 to 4.0 (#47)
 
 Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 3.3 to 4.0.
