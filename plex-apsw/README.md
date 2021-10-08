@@ -33,5 +33,5 @@ If you are more interested in stable releases of my add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-761222c-blue.svg
-[release]: https://github.com/barisozdag/addon-plex/tree/761222c
+[release-shield]: https://img.shields.io/badge/version-f6dfaa0-blue.svg
+[release]: https://github.com/barisozdag/addon-plex/tree/f6dfaa0
