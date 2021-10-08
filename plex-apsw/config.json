@@ -1,6 +1,6 @@
 {
   "name": "Plex Media Server",
-  "version": "f6dfaa0",
+  "version": "0.3.5",
   "slug": "plex-apsw",
   "description": "Recorded media, live TV, online news, and podcasts ready to stream.",
   "url": "https://github.com/barisozdag/addon-plex",
