@@ -111,6 +111,30 @@ Example:
 http://hassio.local:32400,http://192.168.1.88:32400,http://mydomain.duckdns.org:32400
 ```
 
+## Port 1900 add-on conflicts
+
+Plex Media server uses port `1900` for access to the Plex DLNA Server. This port
+is also used by multiple other add-ons, like the AirSonos and UniFi add-ons.
+
+In case they conflict, the Plex Media Server add-on will fail to start.
+The following error message is shown in the Hass.io system log:
+
+```txt
+[hassio.docker] Can't start addon_40817795_plex: 500 Server Error:
+Internal Server Error ("driver failed programming external connectivity
+on endpoint addon_40817795_plex):
+Error starting userland proxy: listen udp 0.0.0.0:1900:
+bind: address already in use
+```
+
+You have two choices:
+
+- Disable or remove the conflicting add-on
+- Change the port number 1900 to something else.
+
+The last option will cause you to lose the DLNA capabilities of the
+Plex Media Server.
+
 ## Known issues and limitations
 
 - This add-on does support ARM-based devices, nevertheless, they must
@@ -126,7 +150,6 @@ http://hassio.local:32400,http://192.168.1.88:32400,http://mydomain.duckdns.org:
 - A Plex Pass gives you exclusive access to new features, which are
   available through a Beta version channel of the media server. At this
   time, running this "Beta" version, is not supported by this add-on.
-- This add-on does not support Plex over DLNA.
 
 ## Changelog & Releases
 
