@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- 🚀 Add-on CI improvements (#37) 
 - Bump actions/checkout from 2.3.4 to 2.3.5 (#36)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
