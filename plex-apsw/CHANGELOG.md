@@ -1,4 +1,5 @@
 # Changelog since v0.3.5
+- ⬆️ Upgrades Plex Media Server to 1.24.4.5081 (#56) 
 - Bump actions/checkout from 2.3.4 to 2.3.5 (#55)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
