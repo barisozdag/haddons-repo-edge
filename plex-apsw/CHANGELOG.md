@@ -1,18 +1,18 @@
-## What’s changed
+# Changelog since v0.3.5
+- Bump actions/checkout from 2.3.4 to 2.3.5 (#55)
 
-## 🚀 Enhancements
+Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
 
-- Add DLNA back @barisozdag (#53)
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
 
-## 🧰 Maintenance
+Signed-off-by: dependabot[bot] <support@github.com>
 
-- 🚀 Add-on CI improvements @barisozdag (#54)
-
-## 📚 Documentation
-
-- Add DLNA back @barisozdag (#53)
-
-## ⬆️ Dependency updates
-
-- Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#52)
-- Bump dessant/lock-threads from 2.1.2 to 3 @dependabot (#51)
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
