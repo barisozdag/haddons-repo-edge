@@ -1,21 +1,33 @@
-## What’s changed
-Add-on base image is changed from Ubuntu to Debian
+# Changelog since v1.0.0
+- Bump frenck/action-addon-information from 1.2.2 to 1.3 (#40)
 
-## 🚨 Breaking changes
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.2.2 to 1.3.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.2.2...v1.3)
 
-- 🔥 Change Base image to Debian v5.1.1 @barisozdag (#38)
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-information
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
 
-## 🧰 Maintenance
+Signed-off-by: dependabot[bot] <support@github.com>
 
-- 🚀 Add-on CI improvements @barisozdag (#37)
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump frenck/action-addon-linter from 2.4.1 to 2.5 (#39)
 
-## ⬆️ Dependency updates
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.4.1 to 2.5.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.4.1...v2.5)
 
-- Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#28)
-- Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#29)
-- Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#30)
-- Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#31)
-- Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#32)
-- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 @dependabot (#35)
-- ⬆️ Bump dessant/lock-threads from 2.1.2 to 3 @dependabot (#34)
-- Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#36)
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
