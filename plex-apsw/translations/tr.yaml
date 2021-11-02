@@ -1,0 +1,28 @@
+---
+configuration:
+  log_level:
+    name: Günlük Düzeyi
+    description: >-
+      Eklentinin sağladığı günlük ayrıntılarının düzeyini kontrol eder.
+  claim_code:
+    name: Claim Code
+    description: >-
+      Sunucunuzun Plex hesabınıza giriş yapabilmesi için, "Claim Code" adı
+      verilen koda ihtiyacı vardır. Kodu edinebilmek için şu adresi ziyaret
+      edin: https://www.plex.tv/claim
+  webtools:
+    name: WebTools
+    description: >-
+      Plex Medya Sunucusu için bir sürü alet barındıran WebTools eklentisini
+      yükle ve etkinleştir.
+network:
+  3005/tcp: Plex Home Theater via Plex Companion
+  8324/tcp: Plex for Roku via Plex Companion
+  32400/tcp: Plex Media Sunucu Arayüzü
+  32410/udp: GDM ağ keşfi
+  32412/udp: GDM ağ keşfi
+  32413/udp: GDM ağ keşfi
+  32414/udp: GDM ağ keşfi
+  32469/tcp: Plex DLNA Sunucusu
+  33400/tcp: WebTools
+  33443/tcp: WebTools
