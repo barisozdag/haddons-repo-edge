@@ -155,10 +155,10 @@ SOFTWARE.
 [deluge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [deluge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [deluge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/7d609dc
-[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/7d609dc/README.md
+[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/bbda668
+[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/bbda668/README.md
 [kitana-issue]: https://github.com/barisozdag/addon-kitana/issues
-[kitana-version-shield]: https://img.shields.io/badge/version-7d609dc-blue.svg
+[kitana-version-shield]: https://img.shields.io/badge/version-bbda668-blue.svg
 [kitana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [kitana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [kitana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

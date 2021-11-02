@@ -1,4 +1,36 @@
 # Changelog since v0.1.1
+- Bump frenck/action-addon-linter from 2.4.1 to 2.5 (#42)
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.4.1 to 2.5.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.4.1...v2.5)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
+- Bump frenck/action-addon-information from 1.2.2 to 1.3 (#41)
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.2.2 to 1.3.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.2.2...v1.3)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-information
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - 🚀 Add-on CI improvements (#40) 
 - Bump actions/checkout from 2.3.4 to 2.3.5 (#39)
 
@@ -17,7 +49,7 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Bump dessant/lock-threads from 2.1.2 to 3 (#37)
+- ⬆️ Bump dessant/lock-threads from 2.1.2 to 3 (#37)
 
 Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.2 to 3.
 - [Release notes](https://github.com/dessant/lock-threads/releases)
@@ -34,7 +66,7 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] <support@github.com>
 
 Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
-- ⬆ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#38)
+- ⬆️ Bump frenck/action-addon-linter from 2.3 to 2.4.1 (#38)
 
 Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.1.
 - [Release notes](https://github.com/frenck/action-addon-linter/releases)
