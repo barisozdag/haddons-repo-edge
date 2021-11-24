@@ -1,4 +1,20 @@
 # Changelog since v1.0.0
+- Bump actions/cache from 2.1.6 to 2.1.7 (#42)
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.6 to 2.1.7.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.6...v2.1.7)
+
+---
+updated-dependencies:
+- dependency-name: actions/cache
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 
 - Bump actions/checkout from 2.3.5 to 2.4.0 (#41)
 
 Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.5 to 2.4.0.
