@@ -146,10 +146,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-deluge]: https://github.com/barisozdag/addon-deluge/tree/dd7f85b
-[addon-doc-deluge]: https://github.com/barisozdag/addon-deluge/blob/dd7f85b/README.md
+[addon-deluge]: https://github.com/barisozdag/addon-deluge/tree/042a49c
+[addon-doc-deluge]: https://github.com/barisozdag/addon-deluge/blob/042a49c/README.md
 [deluge-issue]: https://github.com/barisozdag/addon-deluge/issues
-[deluge-version-shield]: https://img.shields.io/badge/version-dd7f85b-blue.svg
+[deluge-version-shield]: https://img.shields.io/badge/version-042a49c-blue.svg
 [deluge-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [deluge-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [deluge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
