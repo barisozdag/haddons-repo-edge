@@ -31,5 +31,5 @@ If you are more interested in stable releases of my add-ons:
 [deluge]: https://deluge-torrent.org/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-042a49c-blue.svg
-[release]: https://github.com/barisozdag/addon-deluge/tree/042a49c
+[release-shield]: https://img.shields.io/badge/version-e31dd4c-blue.svg
+[release]: https://github.com/barisozdag/addon-deluge/tree/e31dd4c
