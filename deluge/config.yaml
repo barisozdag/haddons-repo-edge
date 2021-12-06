@@ -1,0 +1,34 @@
+arch:
+- aarch64
+- amd64
+- armv7
+- i386
+description: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
+image: ghcr.io/barisozdag/deluge/{arch}
+init: false
+map:
+- config:rw
+- media:rw
+- share:rw
+- ssl
+name: Deluge
+options:
+  DELUGE_LOGLEVEL: info
+panel_icon: mdi:water
+ports:
+  58846/tcp: 58846
+  58946/tcp: 58946
+  58946/udp: 58946
+  8112/tcp: 8112
+ports_description:
+  58846/tcp: deluge daemon port
+  58946/tcp: Port for BitTorrent
+  58946/udp: Port for BitTorrent
+  8112/tcp: Web interface
+schema:
+  DELUGE_LOGLEVEL: str?
+  TZ: str?
+slug: deluge
+url: https://github.com/barisozdag/addon-deluge
+version: ae649ec
+webui: http://[HOST]:[PORT:8112]
