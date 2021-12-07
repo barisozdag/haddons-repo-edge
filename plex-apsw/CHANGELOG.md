@@ -1,6 +1,9 @@
-# Changelog since v0.3.8
-- Move release info to build file (#67)
+## What’s changed
 
-* Migrate release info to build file
+## 🚀 Enhancements
 
-* Fix lint error 
+- Move release info to build file @barisozdag (#67)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades Plex Media Server to 1.25.1.5286 @barisozdag (#68)
