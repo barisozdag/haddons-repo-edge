@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- Switch to centralized GitHub Action Workflows (#47) 
 - Bump actions/cache from 2.1.6 to 2.1.7 (#44)
 
 Bumps [actions/cache](https://github.com/actions/cache) from 2.1.6 to 2.1.7.
