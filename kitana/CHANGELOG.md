@@ -1,4 +1,5 @@
 # Changelog since v0.1.1
+- Migrate JSON config to YAML (#48) 
 - Switch to centralized GitHub Action Workflows (#47) 
 - Bump actions/cache from 2.1.6 to 2.1.7 (#44)
 

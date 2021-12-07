@@ -1,0 +1,17 @@
+arch:
+- armv7
+- aarch64
+- amd64
+description: A responsive Plex plugin web frontend
+image: ghcr.io/barisozdag/kitana/{arch}
+map:
+- ssl
+name: Kitana
+ports:
+  31337/tcp: 31337
+ports_description:
+  31337/tcp: Web interface
+slug: kitana
+url: https://github.com/barisozdag/addon-kitana
+version: 2acf90b
+webui: http://[HOST]:[PORT:31337]
