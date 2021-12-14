@@ -1,4 +1,5 @@
 # Changelog since v0.1.3
+- ⬆️ Upgrades Deluge to v2.0.4 (#44) 
 - ⬆️ Upgrades add-on base image to v5.2.2 (#43)
 
 * ⬆️ Upgrades add-on base image to v5.2.2
