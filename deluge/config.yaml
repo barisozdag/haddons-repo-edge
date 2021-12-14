@@ -30,5 +30,5 @@ schema:
   TZ: str?
 slug: deluge
 url: https://github.com/barisozdag/addon-deluge
-version: b00e292
+version: 36447b6
 webui: http://[HOST]:[PORT:8112]
