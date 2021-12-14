@@ -10,5 +10,5 @@ jobs:
   workflows:
     uses: barisozdag/workflows/.github/workflows/repository-updater.yaml@main
     secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ADDON_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}
