@@ -21,5 +21,5 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
 slug: resiliosync
 url: https://github.com/barisozdag/addon-resiliosync
-version: 14dec4f
+version: 9284db8
 webui: http://[HOST]:[PORT:8888]/
