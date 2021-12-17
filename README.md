@@ -173,10 +173,10 @@ SOFTWARE.
 [plex-apsw-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-apsw-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-apsw-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-resiliosync]: https://github.com/barisozdag/addon-resiliosync/tree/9284db8
-[addon-doc-resiliosync]: https://github.com/barisozdag/addon-resiliosync/blob/9284db8/README.md
+[addon-resiliosync]: https://github.com/barisozdag/addon-resiliosync/tree/c52b6f7
+[addon-doc-resiliosync]: https://github.com/barisozdag/addon-resiliosync/blob/c52b6f7/README.md
 [resiliosync-issue]: https://github.com/barisozdag/addon-resiliosync/issues
-[resiliosync-version-shield]: https://img.shields.io/badge/version-9284db8-blue.svg
+[resiliosync-version-shield]: https://img.shields.io/badge/version-c52b6f7-blue.svg
 [resiliosync-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [resiliosync-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [resiliosync-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
