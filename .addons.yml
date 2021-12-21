@@ -17,3 +17,7 @@ addons:
     repository: barisozdag/addon-deluge
     target: deluge
     image: ghcr.io/barisozdag/deluge/{arch}
+  transmission:
+    repository: barisozdag/addon-transmission
+    target: transmission
+    image: ghcr.io/barisozdag/transmission/{arch}
