@@ -1,0 +1,46 @@
+arch:
+- aarch64
+- amd64
+- armhf
+- armv7
+description: The torrent client for Home Assistant with Custom UI
+environment:
+  LOG_FORMAT: '{LEVEL}: {MESSAGE}'
+hassio_api: true
+image: ghcr.io/barisozdag/transmission/{arch}
+ingress: true
+map:
+- config:rw
+- media:rw
+- share:rw
+- ssl
+name: Transmission
+options:
+  authentication_required: false
+  download_dir: /media/downloads
+  incomplete_dir: /media/downloads/incomplete
+  log_level: info
+  password: ''
+  uitheme: default
+  username: ''
+panel_icon: mdi:progress-download
+ports:
+  51413/tcp: 51413
+  51413/udp: 51413
+  9091/tcp: null
+ports_description:
+  51413/tcp: Peer port (setup port forwarding to this port)
+  51413/udp: Peer port (setup port forwarding to this port)
+  9091/tcp: Web UI port (Not required for Hass.io Ingress)
+schema:
+  authentication_required: bool
+  download_dir: match(^/(share|media))
+  incomplete_dir: match(^/(share|media))
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  password: str
+  uitheme: list(default|transmission-web-control|combustion|flood-for-transmission|kettu)
+  username: str
+slug: transmission
+startup: services
+url: https://github.com/barisozdag/addon-transmission
+version: 0.1.0

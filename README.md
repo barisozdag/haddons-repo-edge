@@ -88,6 +88,19 @@ Sync All Your Data Across All Your Devices
 
 [:books: Resilio Sync add-on documentation][addon-doc-resiliosync]
 
+### &#10003; [Transmission][addon-transmission]
+
+![Latest Version][transmission-version-shield]
+![Supports armhf Architecture][transmission-armhf-shield]
+![Supports armv7 Architecture][transmission-armv7-shield]
+![Supports aarch64 Architecture][transmission-aarch64-shield]
+![Supports amd64 Architecture][transmission-amd64-shield]
+![Supports i386 Architecture][transmission-i386-shield]
+
+The torrent client for Home Assistant with Custom UI
+
+[:books: Transmission add-on documentation][addon-doc-transmission]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -110,6 +123,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Kitana][kitana-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-apsw-issue]
 - [Open an issue for the add-on: Resilio Sync][resiliosync-issue]
+- [Open an issue for the add-on: Transmission][transmission-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -182,6 +196,15 @@ SOFTWARE.
 [resiliosync-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [resiliosync-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [resiliosync-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-transmission]: https://github.com/barisozdag/addon-transmission/tree/v0.1.0
+[addon-doc-transmission]: https://github.com/barisozdag/addon-transmission/blob/v0.1.0/README.md
+[transmission-issue]: https://github.com/barisozdag/addon-transmission/issues
+[transmission-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[transmission-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[transmission-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[transmission-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[transmission-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[transmission-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/barisozdag/haddons-repo-edge/issues
 [license-shield]: https://img.shields.io/github/license/barisozdag/haddons-repo-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
