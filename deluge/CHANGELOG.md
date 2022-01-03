@@ -1,2 +1,2 @@
-# Changelog since v0.2.0
-- ⬆️ Upgrades Deluge to v2.0.5 (#46) 
+# Changelog since v0.2.1
+- Happy New Year (#47) 
