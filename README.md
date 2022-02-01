@@ -178,10 +178,10 @@ SOFTWARE.
 [kitana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [kitana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [kitana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-plex-apsw]: https://github.com/barisozdag/addon-plex/tree/0bd7983
-[addon-doc-plex-apsw]: https://github.com/barisozdag/addon-plex/blob/0bd7983/README.md
+[addon-plex-apsw]: https://github.com/barisozdag/addon-plex/tree/afef0f5
+[addon-doc-plex-apsw]: https://github.com/barisozdag/addon-plex/blob/afef0f5/README.md
 [plex-apsw-issue]: https://github.com/barisozdag/addon-plex/issues
-[plex-apsw-version-shield]: https://img.shields.io/badge/version-0bd7983-blue.svg
+[plex-apsw-version-shield]: https://img.shields.io/badge/version-afef0f5-blue.svg
 [plex-apsw-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-apsw-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-apsw-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
