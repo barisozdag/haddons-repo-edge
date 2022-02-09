@@ -45,5 +45,5 @@ schema:
 slug: plex-apsw
 startup: services
 url: https://github.com/barisozdag/addon-plex
-version: afef0f5
+version: 04bf950
 webui: http://[HOST]:[PORT:32400]/web
