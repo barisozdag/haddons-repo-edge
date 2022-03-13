@@ -1,7 +1,13 @@
-# Changelog since v0.1.0
-- 🔒 Sign add-on with Codenotary CAS (#2) 
-- Happy New Year (#1)
+## What’s changed
 
-* Happy New Year
+## 🐛 Bug fixes
 
-* Fix Relese 
+- Fix TWC mobile rpc url @barisozdag (#3)
+
+## 🚀 Enhancements
+
+- 🔒 Sign add-on with Codenotary CAS @barisozdag (#2)
+
+## 🧰 Maintenance
+
+- Happy New Year @barisozdag (#1)
