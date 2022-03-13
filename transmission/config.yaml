@@ -3,6 +3,7 @@ arch:
 - amd64
 - armhf
 - armv7
+codenotary: baris@ozdag.net
 description: The torrent client for Home Assistant with Custom UI
 environment:
   LOG_FORMAT: '{LEVEL}: {MESSAGE}'
@@ -43,4 +44,4 @@ schema:
 slug: transmission
 startup: services
 url: https://github.com/barisozdag/addon-transmission
-version: 373edf3
+version: '2631467'
