@@ -10,8 +10,12 @@ and streams them to all of your devices.
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
-1. [Add my Hass.io add-ons repository][repository] to your Hass.io instance.
-1. Search for the “Plex Media Server” add-on and install it.
+1. [![Add repository to your Home Assitant instance.][repository-badge]][repository]
+1. Click the Home Assistant My button below to open the add-on on your Home
+   Assistant instance.
+
+   [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
+
 1. Surf to <https://www.plex.tv/claim> and get your claim token.
 1. Update the add-on config with the claim code you've got in the previous step.
 1. Save the add-on configuration.
@@ -201,10 +205,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_plex-apsw
 [contributors]: https://github.com/barisozdag/addon-plex/graphs/contributors
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/barisozdag/addon-plex/issues
 [releases]: https://github.com/barisozdag/addon-plex/releases
-[repository]: https://github.com/barisozdag/haddons-repo
+[repository-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
+[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbarisozdag%2Fhaddons-repo
 [semver]: http://semver.org/spec/v2.0.0.htm
 [webtools]: https://github.com/ukdtom/WebTools.bundle/wiki
