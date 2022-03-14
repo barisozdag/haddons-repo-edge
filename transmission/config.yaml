@@ -44,4 +44,4 @@ schema:
 slug: transmission
 startup: services
 url: https://github.com/barisozdag/addon-transmission
-version: 0.1.1
+version: 0ebc910

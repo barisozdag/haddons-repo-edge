@@ -1,13 +1,8 @@
-## What’s changed
+# Changelog since v0.1.1
+- 📚 Add My buttons to documentation (#4)
 
-## 🐛 Bug fixes
+* 📚 Add My buttons to documentation
 
-- Fix TWC mobile rpc url @barisozdag (#3)
+* Prettified Code!
 
-## 🚀 Enhancements
-
-- 🔒 Sign add-on with Codenotary CAS @barisozdag (#2)
-
-## 🧰 Maintenance
-
-- Happy New Year @barisozdag (#1)
+Co-authored-by: barisozdag <barisozdag@users.noreply.github.com> 
