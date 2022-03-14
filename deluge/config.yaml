@@ -3,6 +3,7 @@ arch:
 - amd64
 - armv7
 - i386
+codenotary: baris@ozdag.net
 description: Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 image: ghcr.io/barisozdag/deluge/{arch}
 init: false
@@ -30,5 +31,5 @@ schema:
   TZ: str?
 slug: deluge
 url: https://github.com/barisozdag/addon-deluge
-version: b273136
+version: 67606a9
 webui: http://[HOST]:[PORT:8112]
