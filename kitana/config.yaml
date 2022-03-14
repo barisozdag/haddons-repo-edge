@@ -2,6 +2,7 @@ arch:
 - armv7
 - aarch64
 - amd64
+codenotary: baris@ozdag.net
 description: A responsive Plex plugin web frontend
 image: ghcr.io/barisozdag/kitana/{arch}
 map:
@@ -13,5 +14,5 @@ ports_description:
   31337/tcp: Web interface
 slug: kitana
 url: https://github.com/barisozdag/addon-kitana
-version: 3dcd743
+version: bedd1cd
 webui: http://[HOST]:[PORT:31337]
