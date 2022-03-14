@@ -1,4 +1,5 @@
 # Changelog since v1.0.1
+- 📚 Add My buttons to documentation (#52) 
 - 🔒 Sign add-on with Codenotary CAS (#51) 
 - ⬆️ Upgrades add-on base image to v5.3.0 (#50) 
 - Happy New Year (#49) 
