@@ -14,5 +14,5 @@ ports_description:
   31337/tcp: Web interface
 slug: kitana
 url: https://github.com/barisozdag/addon-kitana
-version: bedd1cd
+version: d3edda2
 webui: http://[HOST]:[PORT:31337]

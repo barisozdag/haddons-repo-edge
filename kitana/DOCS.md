@@ -77,7 +77,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_deluge
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_kitana
 [contributors]: https://github.com/barisozdag/addon-kitana/graphs/contributors
 [barisozdag]: https://github.com/barisozdag
 [issue]: https://github.com/barisozdag/addon-kitana/issues
