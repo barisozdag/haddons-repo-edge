@@ -2,6 +2,7 @@ arch:
 - aarch64
 - amd64
 - armv7
+codenotary: baris@ozdag.net
 description: Sync All Your Data Across All Your Devices
 hassio_api: true
 image: ghcr.io/barisozdag/resiliosync/{arch}
@@ -21,5 +22,5 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
 slug: resiliosync
 url: https://github.com/barisozdag/addon-resiliosync
-version: 339b84e
+version: a92abce
 webui: http://[HOST]:[PORT:8888]/
