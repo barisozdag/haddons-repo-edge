@@ -1,2 +1,2 @@
-# Changelog since v0.4.3
-- ⬆️ Upgrades Plex Media Server to 1.26.1.5798 (#84) 
+# Changelog since v0.4.4
+- Exclude redundant directories from backup (#85) 
