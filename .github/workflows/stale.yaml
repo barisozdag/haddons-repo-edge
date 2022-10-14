@@ -10,5 +10,3 @@ on:
 jobs:
   workflows:
     uses: barisozdag/workflows/.github/workflows/stale.yaml@main
-    secrets:
-      ADDON_TOKEN: ${{ secrets.GITHUB_TOKEN }}
