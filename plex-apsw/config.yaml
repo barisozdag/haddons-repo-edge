@@ -2,7 +2,6 @@ arch:
 - aarch64
 - amd64
 - armv7
-- i386
 backup_exclude:
 - '**/Plex Media Server/Cache/**'
 - '**/Plex Media Server/Plug-in Support/Caches/**'
@@ -13,6 +12,7 @@ codenotary: baris@ozdag.net
 description: Recorded media, live TV, online news, and podcasts ready to stream.
 hassio_api: true
 image: ghcr.io/barisozdag/plex-apsw/{arch}
+init: false
 map:
 - media:rw
 - share:rw
@@ -52,5 +52,5 @@ schema:
 slug: plex-apsw
 startup: services
 url: https://github.com/barisozdag/addon-plex
-version: bd82d0f
+version: b6d35ff
 webui: http://[HOST]:[PORT:32400]/web

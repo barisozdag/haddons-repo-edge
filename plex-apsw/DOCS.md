@@ -10,7 +10,6 @@ and streams them to all of your devices.
 The installation of this add-on is pretty straightforward and not different in
 comparison to installing any other Home Assistant add-on.
 
-1. [![Add repository to your Home Assitant instance.][repository-badge]][repository]
 1. Click the Home Assistant My button below to open the add-on on your Home
    Assistant instance.
 
@@ -23,8 +22,8 @@ comparison to installing any other Home Assistant add-on.
 1. Check the logs of the "Plex Media Server" to see if everything went well.
 1. Login to the Plex admin interface and complete the setup process.
 
-**NOTE**: When adding media locations, please use `/share` as the base
-directory.
+**NOTE**: When adding media locations, please use `/share` and `/media`
+as the base directories.
 
 ## Configuration
 
@@ -206,12 +205,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_plex-apsw
+[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=bb761233_plex-apsw&repository_url=https%3A%2F%2Fgithub.com%2Fbarisozdag%2Fhaddons-repo
 [contributors]: https://github.com/barisozdag/addon-plex/graphs/contributors
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/barisozdag/addon-plex/issues
 [releases]: https://github.com/barisozdag/addon-plex/releases
-[repository-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
-[repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbarisozdag%2Fhaddons-repo
 [semver]: http://semver.org/spec/v2.0.0.htm
 [webtools]: https://github.com/ukdtom/WebTools.bundle/wiki
