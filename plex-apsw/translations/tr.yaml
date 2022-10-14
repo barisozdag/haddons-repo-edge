@@ -10,11 +10,6 @@ configuration:
       Sunucunuzun Plex hesabınıza giriş yapabilmesi için, "Claim Code" adı
       verilen koda ihtiyacı vardır. Kodu edinebilmek için şu adresi ziyaret
       edin: https://www.plex.tv/claim
-  webtools:
-    name: WebTools
-    description: >-
-      Plex Medya Sunucusu için bir sürü alet barındıran WebTools eklentisini
-      yükle ve etkinleştir.
 network:
   3005/tcp: Plex Home Theater via Plex Companion
   8324/tcp: Plex for Roku via Plex Companion
@@ -24,5 +19,3 @@ network:
   32413/udp: GDM ağ keşfi
   32414/udp: GDM ağ keşfi
   32469/tcp: Plex DLNA Sunucusu
-  33400/tcp: WebTools
-  33443/tcp: WebTools
