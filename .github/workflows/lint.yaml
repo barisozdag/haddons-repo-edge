@@ -13,4 +13,4 @@ on:
 
 jobs:
   workflows:
-    uses: barisozdag/workflows/.github/workflows/repository-lint.yaml@main
+    uses: hassio-addons/workflows/.github/workflows/repository-lint.yaml@main
