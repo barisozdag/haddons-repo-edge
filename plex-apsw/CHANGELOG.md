@@ -1,5 +1,6 @@
-## What’s changed
+# Changelog since v1.0.7
+- Update CI Workflows (#108)
 
-## ⬆️ Dependency updates
+* Update CI Workflows
 
-- ⬆️ Upgrades Plex Media Server to 1.31.3.6868 @barisozdag (#107)
+* Update CI Workflows 
