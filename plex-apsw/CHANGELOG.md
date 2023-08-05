@@ -1,2 +1,5 @@
-# Changelog since v1.0.11
-- ⬆️ Upgrades Plex Media Server to 1.32.5.7328 (#113) 
+## What’s changed
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades Plex Media Server to 1.32.6.7371 @barisozdag (#114)
