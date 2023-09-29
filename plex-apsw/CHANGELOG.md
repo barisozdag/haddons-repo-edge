@@ -1,5 +1,3 @@
-## What’s changed
-
-## ⬇ Dependency updates
-
-- ⬇ Downgrades Plex Media Server to 1.32.5.7516 @barisozdag (#115)
+# Changelog since v1.0.14
+- Ditch CAS (#117) 
+- ⬆️ Upgrades Plex Media Server to 1.32.6.7557 (#116) 
