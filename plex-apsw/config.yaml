@@ -1,5 +1,5 @@
 name: Plex Media Server
-version: '5099834'
+version: 6c753fa
 slug: plex-apsw
 description: Recorded media, live TV, online news, and podcasts ready to stream.
 url: https://github.com/barisozdag/addon-plex
