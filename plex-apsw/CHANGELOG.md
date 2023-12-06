@@ -1,4 +1,5 @@
 # Changelog since v1.0.14
+- Install Plex Media Server from Debian package (#121) 
 - ⬆️ Upgrades add-on base image to 9.0.1 (#120) 
 - 🔨 Migrate old-style S6 scripts to s6-rc.d (#119) 
 - ⬆️ Upgrades Plex Media Server to 1.328.7639 (#118) 
