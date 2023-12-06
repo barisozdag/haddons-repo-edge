@@ -1,18 +1,18 @@
+name: Kitana
+version: c00573e
+slug: kitana
+description: A responsive Plex plugin web frontend
+url: https://github.com/barisozdag/addon-kitana
+codenotary: baris@ozdag.net
 arch:
 - armv7
 - aarch64
 - amd64
-codenotary: baris@ozdag.net
-description: A responsive Plex plugin web frontend
-image: ghcr.io/barisozdag/kitana/{arch}
 map:
 - ssl
-name: Kitana
 ports:
   31337/tcp: 31337
 ports_description:
   31337/tcp: Web interface
-slug: kitana
-url: https://github.com/barisozdag/addon-kitana
-version: d3edda2
 webui: http://[HOST]:[PORT:31337]
+image: ghcr.io/barisozdag/kitana/{arch}

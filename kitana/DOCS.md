@@ -56,7 +56,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2020-2022 Barış Özdağ
+Copyright (c) 2020-2023 Barış Özdağ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -85,4 +85,4 @@ SOFTWARE.
 [releases]: https://github.com/barisozdag/addon-kitana/releases
 [repository-badge]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [repository]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fbarisozdag%2Fhaddons-repo
-[semver]: http://semver.org/spec/v2.0.0.htm
+[semver]: https://semver.org/spec/v2.0.0.html

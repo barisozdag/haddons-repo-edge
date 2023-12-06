@@ -169,10 +169,10 @@ SOFTWARE.
 [deluge-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [deluge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [deluge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/d3edda2
-[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/d3edda2/README.md
+[addon-kitana]: https://github.com/barisozdag/addon-kitana/tree/c00573e
+[addon-doc-kitana]: https://github.com/barisozdag/addon-kitana/blob/c00573e/README.md
 [kitana-issue]: https://github.com/barisozdag/addon-kitana/issues
-[kitana-version-shield]: https://img.shields.io/badge/version-d3edda2-blue.svg
+[kitana-version-shield]: https://img.shields.io/badge/version-c00573e-blue.svg
 [kitana-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [kitana-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [kitana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
