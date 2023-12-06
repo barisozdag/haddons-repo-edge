@@ -1,4 +1,5 @@
 # Changelog since v1.0.14
+- Remove stale plexmediaserver.pid on startup (#123) 
 - Map possible hardware acceleration devices into add-on (#122) 
 - Install Plex Media Server from Debian package (#121) 
 - ⬆️ Upgrades add-on base image to 9.0.1 (#120) 
