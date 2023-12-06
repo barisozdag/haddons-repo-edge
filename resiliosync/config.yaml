@@ -1,16 +1,17 @@
 name: Resilio Sync
-version: 6506e75
+version: 1.0.4
 slug: resiliosync
 description: Sync All Your Data Across All Your Devices
 url: https://github.com/barisozdag/addon-resiliosync
 codenotary: baris@ozdag.net
 webui: http://[HOST]:[PORT:8888]/
+init: false
 arch:
 - aarch64
 - amd64
 - armv7
 map:
-- config:rw
+- addon_config:rw
 - media:rw
 - share:rw
 - ssl
