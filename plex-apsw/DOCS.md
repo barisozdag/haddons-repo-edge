@@ -191,4 +191,4 @@ SOFTWARE.
 [frenck]: https://github.com/frenck
 [issue]: https://github.com/barisozdag/addon-plex/issues
 [releases]: https://github.com/barisozdag/addon-plex/releases
-[semver]: http://semver.org/spec/v2.0.0.htm
+[semver]: https://semver.org/spec/v2.0.0.html
