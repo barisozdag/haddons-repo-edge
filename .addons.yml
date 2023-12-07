@@ -21,3 +21,7 @@ addons:
     repository: barisozdag/addon-transmission
     target: transmission
     image: ghcr.io/barisozdag/transmission/{arch}
+  cloudcmd:
+    repository: barisozdag/addon-cloudcmd
+    target: cloudcmd
+    image: ghcr.io/barisozdag/cloudcmd/{arch}
