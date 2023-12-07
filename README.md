@@ -36,6 +36,19 @@ https://github.com/barisozdag/haddons-repo-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [CloudCMD][addon-cloudcmd]
+
+![Latest Version][cloudcmd-version-shield]
+![Supports armhf Architecture][cloudcmd-armhf-shield]
+![Supports armv7 Architecture][cloudcmd-armv7-shield]
+![Supports aarch64 Architecture][cloudcmd-aarch64-shield]
+![Supports amd64 Architecture][cloudcmd-amd64-shield]
+![Supports i386 Architecture][cloudcmd-i386-shield]
+
+Cloud Commander a file manager for the web with console and editor.
+
+[:books: CloudCMD add-on documentation][addon-doc-cloudcmd]
+
 ### &#10003; [Deluge][addon-deluge]
 
 ![Latest Version][deluge-version-shield]
@@ -119,6 +132,7 @@ You could open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: CloudCMD][cloudcmd-issue]
 - [Open an issue for the add-on: Deluge][deluge-issue]
 - [Open an issue for the add-on: Kitana][kitana-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-apsw-issue]
@@ -160,6 +174,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/tree/b01f352
+[addon-doc-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/blob/b01f352/README.md
+[cloudcmd-issue]: https://github.com/barisozdag/addon-cloudcmd/issues
+[cloudcmd-version-shield]: https://img.shields.io/badge/version-b01f352-blue.svg
+[cloudcmd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[cloudcmd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[cloudcmd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[cloudcmd-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[cloudcmd-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-deluge]: https://github.com/barisozdag/addon-deluge/tree/da989df
 [addon-doc-deluge]: https://github.com/barisozdag/addon-deluge/blob/da989df/README.md
 [deluge-issue]: https://github.com/barisozdag/addon-deluge/issues
