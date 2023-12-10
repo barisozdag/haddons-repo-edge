@@ -1,5 +1,5 @@
 name: Transmission
-version: e2c5dfd
+version: c1eca79
 slug: transmission
 description: The torrent client for Home Assistant with Custom UI
 url: https://github.com/barisozdag/addon-transmission
@@ -41,7 +41,7 @@ schema:
   password: str
   download_dir: match(^/(share|media))
   incomplete_dir: match(^/(share|media))
-  uitheme: list(default|transmission-web-control|combustion|flood-for-transmission|kettu)
+  uitheme: list(default|transmission-web-control|combustion|flood-for-transmission|kettu|trguing)
 environment:
   LOG_FORMAT: '{LEVEL}: {MESSAGE}'
 image: ghcr.io/barisozdag/transmission/{arch}

@@ -30,5 +30,5 @@ If you are more interested in stable releases of my add-ons:
 [transmission]: https://transmissionbt.com/
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-e2c5dfd-blue.svg
-[release]: https://github.com/barisozdag/addon-transmission/tree/e2c5dfd
+[release-shield]: https://img.shields.io/badge/version-c1eca79-blue.svg
+[release]: https://github.com/barisozdag/addon-transmission/tree/c1eca79
