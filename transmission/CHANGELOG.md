@@ -1,2 +1,9 @@
-# Changelog since v0.1.2
-- ✨ Adds TrguiNG GUI (#10) 
+## What’s changed
+
+## ✨ New features
+
+- ✨ Adds TrguiNG GUI @barisozdag (#10)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades add-on base image to 15.0.1 @barisozdag (#11)
