@@ -25,3 +25,7 @@ addons:
     repository: barisozdag/addon-cloudcmd
     target: cloudcmd
     image: ghcr.io/barisozdag/cloudcmd/{arch}
+  autossh:
+    repository: barisozdag/addon-autossh
+    target: autossh
+    image: ghcr.io/barisozdag/autossh/{arch}
