@@ -36,6 +36,19 @@ https://github.com/barisozdag/haddons-repo-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Autossh][addon-autossh]
+
+![Latest Version][autossh-version-shield]
+![Supports armhf Architecture][autossh-armhf-shield]
+![Supports armv7 Architecture][autossh-armv7-shield]
+![Supports aarch64 Architecture][autossh-aarch64-shield]
+![Supports amd64 Architecture][autossh-amd64-shield]
+![Supports i386 Architecture][autossh-i386-shield]
+
+Automatically connect to a ssh server for forwarding ports
+
+[:books: Autossh add-on documentation][addon-doc-autossh]
+
 ### &#10003; [CloudCMD][addon-cloudcmd]
 
 ![Latest Version][cloudcmd-version-shield]
@@ -132,6 +145,7 @@ You could open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Autossh][autossh-issue]
 - [Open an issue for the add-on: CloudCMD][cloudcmd-issue]
 - [Open an issue for the add-on: Deluge][deluge-issue]
 - [Open an issue for the add-on: Kitana][kitana-issue]
@@ -174,6 +188,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-autossh]: https://github.com/barisozdag/addon-autossh/tree/90f8961
+[addon-doc-autossh]: https://github.com/barisozdag/addon-autossh/blob/90f8961/README.md
+[autossh-issue]: https://github.com/barisozdag/addon-autossh/issues
+[autossh-version-shield]: https://img.shields.io/badge/version-90f8961-blue.svg
+[autossh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[autossh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[autossh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[autossh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[autossh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/tree/b01f352
 [addon-doc-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/blob/b01f352/README.md
 [cloudcmd-issue]: https://github.com/barisozdag/addon-cloudcmd/issues
