@@ -1,9 +1,3 @@
-## What’s changed
-
-## ✨ New features
-
-- ✨ Adds TrguiNG GUI @barisozdag (#10)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades add-on base image to 15.0.1 @barisozdag (#11)
+# Changelog since v0.2.0
+- ⬆️Upgrade Transmission to 4.0.5-r0 (#13) 
+- 🎊️ Happy New Year (#12) 
