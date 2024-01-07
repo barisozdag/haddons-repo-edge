@@ -31,8 +31,8 @@ If you are more interested in stable releases of my add-ons:
 
 <https://github.com/barisozdag/haddons-repo>
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-b01f352-blue.svg
-[release]: https://github.com/barisozdag/addon-cloudcmd/tree/b01f352
+[release-shield]: https://img.shields.io/badge/version-efa53b1-blue.svg
+[release]: https://github.com/barisozdag/addon-cloudcmd/tree/efa53b1
 [cloudcmd]: https://github.com/coderaiser/cloudcmd
