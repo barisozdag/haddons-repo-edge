@@ -204,7 +204,7 @@ SOFTWARE.
 [cloudcmd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudcmd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudcmd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[cloudcmd-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[cloudcmd-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [cloudcmd-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-deluge]: https://github.com/barisozdag/addon-deluge/tree/da989df
 [addon-doc-deluge]: https://github.com/barisozdag/addon-deluge/blob/da989df/README.md
