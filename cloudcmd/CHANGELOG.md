@@ -1,5 +1,6 @@
 ## What’s changed
 
-## 🚨 Breaking changes
+## ⬆️ Dependency updates
 
-- Drops armv7 support @barisozdag (#4)
+- ⬆️ Upgrades CloudCMD to 17.0.3 @barisozdag (#5)
+- ⬆️ Upgrades add-on base image to 15.0.7 @barisozdag (#6)
