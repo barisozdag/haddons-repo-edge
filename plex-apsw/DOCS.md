@@ -165,7 +165,7 @@ check [the contributor's page][contributors].
 
 MIT License
 
-Copyright (c) 2018-2021 Franck Nijhof, 2021-2023 Barış Özdağ
+Copyright (c) 2018-2021 Franck Nijhof, 2021-2024 Barış Özdağ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
