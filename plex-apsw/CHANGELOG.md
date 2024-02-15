@@ -1,5 +1,18 @@
-# Changelog since v1.1.0
-- Update logo/icon to current version (#127) 
-- Add support for more Intel based Hardware Acceleration (#126) 
-- Migrate from Ubuntu to Debian (#125) 
-- 🎉️ Happy New Year (#124) 
+## What’s changed
+
+## 🐛 Bug fixes
+
+- Add support for more Intel based Hardware Acceleration @barisozdag (#126)
+
+## 🚀 Enhancements
+
+- Migrate from Ubuntu to Debian @barisozdag (#125)
+
+## 🧰 Maintenance
+
+- 🎉️ Happy New Year @barisozdag (#124)
+- Update logo/icon to current version @barisozdag (#127)
+
+## ⬆️ Dependency updates
+
+- ⬆️ Upgrades Plex Media Server to 1.40.0.7998 @barisozdag (#128)
