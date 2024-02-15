@@ -1,5 +1,5 @@
 name: Plex Media Server
-version: 25bbf54
+version: 21bbc60
 slug: plex-apsw
 description: Recorded media, live TV, online news, and podcasts ready to stream.
 url: https://github.com/barisozdag/addon-plex
@@ -17,6 +17,9 @@ map:
 - ssl
 devices:
 - /dev/dri
+- /dev/dri/card0
+- /dev/dri/card1
+- /dev/dri/renderD128
 - /dev/vchiq
 ports:
   1900/udp: 1900
