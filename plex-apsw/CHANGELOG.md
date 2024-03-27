@@ -1,18 +1,2 @@
-## What’s changed
-
-## 🐛 Bug fixes
-
-- Add support for more Intel based Hardware Acceleration @barisozdag (#126)
-
-## 🚀 Enhancements
-
-- Migrate from Ubuntu to Debian @barisozdag (#125)
-
-## 🧰 Maintenance
-
-- 🎉️ Happy New Year @barisozdag (#124)
-- Update logo/icon to current version @barisozdag (#127)
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades Plex Media Server to 1.40.0.7998 @barisozdag (#128)
+# Changelog since v1.2.0
+- ⬆️ Upgrades add-on base image to 7.3.3 (#129) 
