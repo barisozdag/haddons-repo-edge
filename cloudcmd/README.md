@@ -33,6 +33,6 @@ If you are more interested in stable releases of my add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v1.0.3-blue.svg
-[release]: https://github.com/barisozdag/addon-cloudcmd/tree/v1.0.3
+[release-shield]: https://img.shields.io/badge/version-8ae1b05-blue.svg
+[release]: https://github.com/barisozdag/addon-cloudcmd/tree/8ae1b05
 [cloudcmd]: https://github.com/coderaiser/cloudcmd

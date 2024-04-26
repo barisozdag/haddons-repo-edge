@@ -1,6 +1,3 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades CloudCMD to 17.3.3 @barisozdag (#8)
-- Bump nodejs to 20.12.1 @barisozdag (#9)
+# Changelog since v1.0.3
+- ⬆️ Upgrades add-on base image to 15.0.8 (#11) 
+- Move configuration to addon_configs (#10) 
