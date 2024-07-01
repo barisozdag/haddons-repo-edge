@@ -1,5 +1,4 @@
-## What’s changed
+# Changelog since v1.2.2
+- ⬆️ Upgrades add-on base image to 7.3.4 (#132)
 
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades Plex Media Server to 1.40.2.8395 @barisozdag (#131)
+* ⬆️ Upgrades add-on base image to 7.3.4 
