@@ -1,5 +1,5 @@
 name: Transmission
-version: 0.2.1
+version: 1c3eb54
 slug: transmission
 description: The torrent client for Home Assistant with Custom UI
 url: https://github.com/barisozdag/addon-transmission
