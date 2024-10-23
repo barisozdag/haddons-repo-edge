@@ -1,6 +1,2 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades add-on base image to 16.2.1 @barisozdag (#16)
-- ⬆ Upgrade TrguiNG to 1.3.0 @barisozdag (#17)
+# Changelog since v0.2.2
+- ⬆️ Upgrades Transmission to 4.0.6-r0 (#19) 
