@@ -197,10 +197,10 @@ SOFTWARE.
 [autossh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [autossh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [autossh-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/tree/2c88542
-[addon-doc-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/blob/2c88542/README.md
+[addon-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/tree/895eb23
+[addon-doc-cloudcmd]: https://github.com/barisozdag/addon-cloudcmd/blob/895eb23/README.md
 [cloudcmd-issue]: https://github.com/barisozdag/addon-cloudcmd/issues
-[cloudcmd-version-shield]: https://img.shields.io/badge/version-2c88542-blue.svg
+[cloudcmd-version-shield]: https://img.shields.io/badge/version-895eb23-blue.svg
 [cloudcmd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudcmd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudcmd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
