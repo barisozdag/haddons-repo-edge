@@ -1,6 +1,3 @@
-## What’s changed
-
-## ⬆️ Dependency updates
-
-- ⬆️ Upgrades CloudCMD to 18.3.0 @barisozdag (#18)
-- ⬆️ Upgrades add-on base image to 16.3.6 @barisozdag (#19)
+# Changelog since v1.1.4
+- ⬆️ Upgrades CloudCMD to 18.4.1 (#21) 
+- ⬆️ Upgrades add-on base image to 17.0.1 (#20) 
