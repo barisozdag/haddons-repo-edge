@@ -1,5 +1,5 @@
 name: Autossh
-version: 90f8961
+version: 2b88ade
 slug: autossh
 description: Automatically connect to a ssh server for forwarding ports
 url: https://github.com/barisozdag/addons-autossh
