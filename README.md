@@ -242,10 +242,10 @@ SOFTWARE.
 [resiliosync-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [resiliosync-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [resiliosync-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-transmission]: https://github.com/barisozdag/addon-transmission/tree/66d163f
-[addon-doc-transmission]: https://github.com/barisozdag/addon-transmission/blob/66d163f/README.md
+[addon-transmission]: https://github.com/barisozdag/addon-transmission/tree/a9f064f
+[addon-doc-transmission]: https://github.com/barisozdag/addon-transmission/blob/a9f064f/README.md
 [transmission-issue]: https://github.com/barisozdag/addon-transmission/issues
-[transmission-version-shield]: https://img.shields.io/badge/version-66d163f-blue.svg
+[transmission-version-shield]: https://img.shields.io/badge/version-a9f064f-blue.svg
 [transmission-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [transmission-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [transmission-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
