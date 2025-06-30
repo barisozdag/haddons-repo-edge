@@ -188,10 +188,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-autossh]: https://github.com/barisozdag/addon-autossh/tree/2b88ade
-[addon-doc-autossh]: https://github.com/barisozdag/addon-autossh/blob/2b88ade/README.md
+[addon-autossh]: https://github.com/barisozdag/addon-autossh/tree/584d39d
+[addon-doc-autossh]: https://github.com/barisozdag/addon-autossh/blob/584d39d/README.md
 [autossh-issue]: https://github.com/barisozdag/addon-autossh/issues
-[autossh-version-shield]: https://img.shields.io/badge/version-2b88ade-blue.svg
+[autossh-version-shield]: https://img.shields.io/badge/version-584d39d-blue.svg
 [autossh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [autossh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [autossh-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

@@ -40,5 +40,5 @@ If you are more interested in stable releases of my add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-2b88ade-blue.svg
-[release]: https://github.com/barisozdag/addon-autossh/tree/2b88ade
+[release-shield]: https://img.shields.io/badge/version-584d39d-blue.svg
+[release]: https://github.com/barisozdag/addon-autossh/tree/584d39d
